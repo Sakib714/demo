@@ -1,11 +1,9 @@
 
 print("Today's prises of our producy__")
-print("Chal 1KG prise $80")
-#Dal 1KG prise $30
-#Ata 1 KG prise $25
-#Moyda 1 KG prise $40
-#Suji 1 KG prise $15
-print("Dal 1KG prise $30")
+print("Chal 1KG prise $80\nDal 1KG prise $30\nAta 1 KG prise $25\nMoyda 1 KG prise $40\nSuji 1 KG prise $15")
+
+
+
 print("")
 print("")
 print("")
